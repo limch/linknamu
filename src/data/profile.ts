@@ -20,5 +20,9 @@ export const profile: Profile = {
 export const links: LinkItem[] = [
   { id: "github", title: "GitHub", url: "https://github.com" },
   { id: "linkedin", title: "LinkedIn", url: "https://www.linkedin.com" },
-  { id: "blog", title: "Blog", url: "https://velog.io" },
+  {
+    id: "naver-cafe",
+    title: "네이버 카페",
+    url: "https://section.cafe.naver.com/ca-fe/home/?tab=join&t=1790449543884",
+  },
 ];
