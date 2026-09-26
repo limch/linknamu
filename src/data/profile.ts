@@ -24,5 +24,5 @@ export const links: LinkItem[] = [
     title: "네이버 카페",
     url: "https://section.cafe.naver.com/ca-fe/home/?tab=join&t=1790449543884",
   },
-  { id: "email", title: "이메일", url: "mailto:limcholho@gmail.com" },
+  { id: "email", title: "이메일", url: "https://mail.google.com/mail/?view=cm&fs=1&to=limcholho@gmail.com" },
 ];
