@@ -12,7 +12,7 @@ export type Profile = {
 
 // 여기서 프로필과 링크를 수정하세요. (현재는 보여 주기용 더미 값)
 export const profile: Profile = {
-  name: "김클로",
+  name: "임철호",
   bio: "세계 최강 바이브코더",
   image: "/profile.svg",
 };
